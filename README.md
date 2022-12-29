@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Social Networks
+<h3> Social Networks </h3>
 </div>
 
 <div align="center"> 

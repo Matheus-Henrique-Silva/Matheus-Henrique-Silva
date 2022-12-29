@@ -1,17 +1,11 @@
 <div align="center">
-
-![Header](./Header_OpenToWork.png)
-
+<h3>Hey Guys, I'm Matheus Silva</h3>
 </div>
 
-<div align="center">
-<h3>Hey Guys, I'm Ulisses Junior</h3>
-</div>
-
-- 💻 Front-End Developer / Web Designer
-- 🇧🇷 I'm 17 years old
-- 📚 Since 2020 I study at CTIG-UNESP, currently I am in the third year
-- 📍 Aparecida-SP
+- 💻 Back-End Developer
+- 🇧🇷 I'm 16 years old
+- 📚 Since 2021 I study at Etec Bento Carlos Amaral, I am currently in the second year
+- 📍 Guariba-SP
 
 <div align="center">
 <h3>My Technologies</h3>

@@ -6,6 +6,7 @@
 - 🇧🇷 I'm 16 years old
 - 📚 Since 2021 I study at Etec Bento Carlos Amaral, I am currently in the second year
 - 📍 Guariba-SP
+- 👨‍💻 More at 
 
 <div align="center">
 <h3>My Technologies</h3>
